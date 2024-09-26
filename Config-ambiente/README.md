@@ -60,7 +60,7 @@ Para baixar imagem 📥  [**`Orange Pi Zero 3`**](http://www.orangepi.org/html/h
 
 ### Configurando SSH para acessar via rede:
 
-Conecte no wi-fi do Orange Pi, depois abilite SSH, em seguida digite comando abaixo para achar IP, [referençia de site para abilitar SSH](https://www.usinainfo.com.br/blog/acessando-raspberry-pi-com-ssh-e-ip-estatico/):
+Conecte no wi-fi do Orange Pi, depois abilite SSH, em seguida digite comando abaixo para achar IP:
 
 ```basic
 ifconfig
