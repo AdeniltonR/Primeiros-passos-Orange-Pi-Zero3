@@ -1,4 +1,4 @@
-# _Orange Pi Zero com Interface com Flask_
+# _Orange Pi Zero 3_
 
 ![https://img.shields.io/badge/Version-1.0.0-blue](https://img.shields.io/badge/Version-1.0.0-blue)
 
@@ -12,13 +12,13 @@
 - [Requisitos](#requisitos)
 - [Informações Adicionais](#informações-adicionais)
     - [Configuração do Ambiente](#configuração-do-ambiente)
-    - [Software](#software)
+    - [Intrudução de Flask](#intrudução-de-flask)
 
 ## Histórico de Versão
 
 | Versão | Data       | Autor       | Descrição         |
 |--------|------------|-------------|-------------------|
-| 1.0.0  | 13/09/2024 | Adenilton R | Início do Projeto |
+| 1.0.0  | 26/09/2024 | Adenilton R | Início do Projeto |
 
 ## Resumo
 
@@ -49,12 +49,12 @@ O objetivo é fornecer um guia completo de configuração do Orange Pi Zero 3, p
 
 ### Configuração do Ambiente
 
-Para obter mais informações sobre o projeto, clique no [**link**](https://github.com/AdeniltonR/OrangePi-Flask-interface/tree/main/Config-ambiente) a seguir.
+Para obter mais informações sobre o projeto, clique no [**link**](https://github.com/AdeniltonR/Primeiros-passos-Orange-Pi-Zero3/tree/main/Config-ambiente) a seguir.
 
 ![orange-pi-os.png](Docs/orange-pi-os.png)
 
 ### Intrudução de Flask
 
-Para obter mais informações sobre o projeto, clique no [**link**](https://github.com/AdeniltonR/OrangePi-Flask-interface/tree/main/Flask-interface) a seguir.
+Para obter mais informações sobre o projeto, clique no [**link**](https://github.com/AdeniltonR/Primeiros-passos-Orange-Pi-Zero3/tree/main/Flask-interface) a seguir.
 
 ![Ola_mundo.png](Docs/Ola_mundo.png)

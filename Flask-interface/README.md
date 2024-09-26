@@ -15,7 +15,7 @@
 - [Links de Estudo](#links-de-estudo)
 - [Instale Git](#instale-git)
     - [Configuração Básica do Git](#configuração-básica-do-git)
-- [Ambiente Virtual com venv no Raspberry Pi](#ambiente-virtual-com-venv-no-raspberry-pi)
+- [Ambiente Virtual com venv no Orange Pi](#ambiente-virtual-com-venv-no-orange-pi)
     - [1. Instale o Python](#1.-instale-o-python)
     - [2. Crie um Ambiente Virtual](#2.-crie-um-ambiente-virtual)
     - [3. Ative o Ambiente Virtual](#3.-ative-o-ambiente-virtual)
@@ -32,7 +32,7 @@
 
 | Versão | Data       | Autor       | Descrição         |
 |--------|------------|-------------|-------------------|
-| 1.0.0  | 13/09/2024 | Adenilton R | Início do Projeto |
+| 1.0.0  | 25/09/2024 | Adenilton R | Início do Projeto |
 
 ## Introdução
 
@@ -118,13 +118,13 @@ git config --global user.name "Seu Nome"
 git config --global user.email "seuemail@exemplo.com"
 ```
 
-## Ambiente Virtual com venv no Raspberry Pi
+## Ambiente Virtual com venv no Orange Pi
 
-Para criar e gerenciar um ambiente virtual usando `venv` no Raspberry Pi, siga os passos abaixo:
+Para criar e gerenciar um ambiente virtual usando `venv` no Orange Pi, siga os passos abaixo:
 
 ### **1. Instale o Python**
 
-Certifique-se de que o Python está instalado no seu Raspberry Pi. A maioria das distribuições do Raspberry Pi já vem com o Python pré-instalado. Caso precise instalar ou atualizar, execute, v3.11.2:
+Certifique-se de que o Python está instalado no seu Orange Pi. A maioria das distribuições do Orange Pi já vem com o Python pré-instalado. Caso precise instalar ou atualizar, execute, v3.11.2:
 
 ```bash
 sudo apt update
@@ -133,7 +133,7 @@ sudo apt install python3 python3-venv
 
 ### 2. Crie um Ambiente Virtual
 
-1. **Abra um Terminal no Raspberry Pi.**
+1. **Abra um Terminal no Orange Pi.**
 2. Navegue até Documents:
     
     ```basic

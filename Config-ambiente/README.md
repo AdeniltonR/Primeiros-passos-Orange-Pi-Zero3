@@ -13,14 +13,14 @@
     - [Instalação SDCard](#instalação-sdcard)
     - [Instalação BalenaEtcher](#Iinstalação-balenaEtcher)
     - [Instalação Imagem Orange Pi](#instalação-imagem-orange-pi)
-    - [Configurando SSH para acessar via rede:](#configurando-ssh-para-acessar-via-rede:)
+    - [Configurando SSH para acessar via rede](#configurando-ssh-para-acessar-via-rede)
 - [Informações](#informações)
 
 ## Histórico de Versão
 
 | Versão | Data       | Autor       | Descrição         |
 |--------|------------|-------------|-------------------|
-| 1.0.0  | 13/09/2024 | Adenilton R | Início do Projeto |
+| 1.0.0  | 25/09/2024 | Adenilton R | Início do Projeto |
 
 ## Resumo
 
@@ -66,16 +66,10 @@ Conecte no wi-fi do Orange Pi, depois abilite SSH, em seguida digite comando aba
 ifconfig
 ```
 
-Para conectar via SSH com seu PC e o Raspberry Pi, abra um terminal - **`CEDEPS`**:
+Para conectar via SSH com seu PC e o Orange Pi, abra um terminal:
 
 ```basic
-ssh orangepi@172.17.57.130
-```
-
-Para conectar via SSH com seu PC e o Raspberry Pi, abra um terminal - **`Casa`**:
-
-```basic
-ssh orangepi@192.168.15.10
+ssh orangepi@192.100.10.100
 ```
 
 Senha: 
@@ -84,7 +78,7 @@ Senha:
 orangepi
 ```
 
-Para atualizar os Raspberry PI:
+Para atualizar os Orange Pi:
 
 ```basic
 sudo apt-get update
