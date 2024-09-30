@@ -72,7 +72,7 @@ O [**`Orange Pi Zero 3`**](http://www.orangepi.org/html/hardWare/computerAndMicr
     - Interface GPIO de 26 pinos;
     - Interface GPIO de 13 pinos;
 - **`Entrada de energia:`** 5V3A, conector tipo C;
-- **`Sistema Operacional suportado**:` Android 12 TV, Debian 11, Debian 12, Ubuntu 22.04, Ubuntu 20.04;
+- **`Sistema Operacional suportado:`** Android 12 TV, Debian 11, Debian 12, Ubuntu 22.04, Ubuntu 20.04;
 - **`Dimensões do PCB:`** 50 mm x 55 mm;
 
 ## Informações Adicionais
