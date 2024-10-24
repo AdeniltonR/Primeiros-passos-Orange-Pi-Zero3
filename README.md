@@ -79,12 +79,12 @@ O [**`Orange Pi Zero 3`**](http://www.orangepi.org/html/hardWare/computerAndMicr
 
 ### Configuração do Ambiente
 
-Para obter mais informações sobre o projeto, clique no [**link**](https://github.com/AdeniltonR/Primeiros-passos-Orange-Pi-Zero3/tree/main/Config-ambiente) a seguir.
+Para obter mais informações sobre o projeto, clique no [**link**](https://github.com/AdeniltonR/Primeiros-passos-Orange-Pi-Zero3/blob/main/Config-ambiente/README.md) a seguir.
 
 ![orange-pi-os.png](Docs/orange-pi-os.png)
 
 ### Intrudução de Flask
 
-Para obter mais informações sobre o projeto, clique no [**link**](https://github.com/AdeniltonR/Primeiros-passos-Orange-Pi-Zero3/tree/main/Flask-interface) a seguir.
+Para obter mais informações sobre o projeto, clique no [**link**](https://github.com/AdeniltonR/Primeiros-passos-Orange-Pi-Zero3/blob/main/Flask-interface/README.md) a seguir.
 
 ![Ola_mundo.png](Docs/Ola_mundo.png)
